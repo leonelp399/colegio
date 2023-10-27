@@ -1353,3 +1353,8 @@ section {
 #footer .credits a:hover {
   color: #008df1;
 }
+
+.parent2 {
+  display: inline-block;
+  width: auto;
+}
